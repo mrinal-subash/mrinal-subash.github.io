@@ -96,46 +96,7 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "Barabasi Lab",
-      "position": "Bioinformatician",
-      "website": "NA",
-      "startDate": "2019-08-01",
-      "endDate": "Present",
-      "summary": "Worked in te Foodome Project Team to implement xconcepts of Network Sciences",
-      "highlights": [
-        "Perform coding in Python to work with datasets tht include USDA, PubChem and PubMed",
-        "Implemented WebScraping using the Google maps API"
-      ]
-    },
-    {
-      "company": "Politecnico di Milano",
-      "position": "Automation and Control Engineer",
-      "website": "https://www.polimi.it/en/international-prospective-students/laurea-magistrale-programmes-equivalent-to-master-of-science/programme-catalogue/automation-and-control-engineering/",
-      "startDate": "2018-06-01",
-      "endDate": "2018-12-01",
-      "summary": "",
-      "highlights": [
-        "•    Undertook the Automation and Control Engineering course at the University where courses included Vehicle Dynamics, Automation in Energy Systems and Production Systems Control.",
-        "•    Attained a grade of 30/30 for all the courses.",
-        "•    Got opportunity to talk to one of Ferrari’s Vehicle Dynamics team head, Marco Fainello.",
-      ]
-    }
-    {
-      "company": "Amrita Vishwa Vidyapeetham",
-      "position": "Amritanagar,Ettimadai, Coimbatore",
-      "website":"https://www.amrita.edu/",
-      "startDate": "2017-12-01",
-      "endDate": "2018-04-01",
-      "summary": "",
-      "highlights": [
-        "•    A deep learning where the system detects diseases with diabetic retinopathy and classifies them into 4 stages-mild, non-proliferative, proliferative and malignant using Keras, a high-level network API with backend as TensorFlow, written in Python."
-      ]
-    }
-  ],
-  
-   
+ 
   "awards": [
     {
       "title": "B+ Scholarship",
