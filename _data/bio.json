@@ -2,7 +2,7 @@
   "basics": {
     "name": "Mrinal Subash",
     "label": "Graduate student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/Profile_Picture.png",
     "email": "mrinalsubash.f@northeastern.edu",
     "phone": "8575446068",
     "website": "https://github.com/Mrinal-1996-oss",
@@ -105,9 +105,8 @@
       "endDate": "Present",
       "summary": "Worked in te Foodome Project Team to implement xconcepts of Network Sciences",
       "highlights": [
-        "",
-        "Perform coding in Python to work with datasets tht include USDA, PubChem and PubMed"
-        "Implemented WebScraping using the Google maps API",
+        "Perform coding in Python to work with datasets tht include USDA, PubChem and PubMed",
+        "Implemented WebScraping using the Google maps API"
       ]
     },
     {
