@@ -176,20 +176,4 @@
       
   ],
                                                                                                                ",
-      "startDate": "August 2018",
-      "endDate": "December 2018",
-      "highlights": [
-        "Preprocessed datasets of heart diseases which include Atrial Fibrillation and Arrhythmia simulated by Linksys simulator extracted through a Raspberry Pi. "
-        "Designed and implemented ELISA experiments, as well as analyzed data, to improve the products."
-        "Classified these heart diseases using a Binary classification algorithm and undergone a supervised learning."
-      ]
-    },
-  ],
-  
-  "INTERESTS" : [
-    { 
-     "Travel, photography, music, philosophy, volunteering at Terra Society, member of the Northeastern University Sanskriti group, member of the NEURONS."
-    },
-  
-  ]
 }
