@@ -167,7 +167,7 @@
     },
     {
       "company": "Amrita VishwaVidyapeetham"
-      "position": "Student",
+      "position": "Prediction of weather forecast (Project) "
       "startDate": "Dec 2017",
       "endDate": "April 2018",
       "highlights": [
@@ -175,29 +175,7 @@
        ]
       
   ],
-  "Academic Projects": [
-    {
-      "organization": "Amrita VishwaVidyapeetham",
-      "position": "Prediction of weather forecast (Project)  "                                                                                                              ",
-      "startDate": "January 2015",
-      "endDate": "February 2015",
-      "summary": "",
-      "highlights": [
-        "This project was undertaken as a subsidiary course to predict the weather of a city in India called Coimbatore using Microsoft Azure Machine Learning software."
-      ]
-    },
-    {
-      "organization": "Amrita VishwaVidyapeetham",
-      "position": "Student",
-      "startDate": "February 2015",
-      "endDate": "May 2015",
-      "highlights": [
-      "This project indulges in detecting intruders late at night using the ESP 8266 WiFi module. A setup of an LDR and Proximity sensor attached to the ESP 8266 WiFi module setup is used to detect the change in the intensity of light and the ranging distance of a human intruder respectively done via Ubidots, a cloud platform.",                                                                    
-      ]
-    }
-     {
-      "organization": "Cohere-Med Solutions",
-      "position": "Machine Learning Trainee"                                                                                                              ",
+                                                                                                               ",
       "startDate": "August 2018",
       "endDate": "December 2018",
       "highlights": [
