@@ -125,12 +125,12 @@
       "courses": [
         "Computational Methods – 1 and 2, Bioinformatics Programming, Statistics for Bioinformatics"
        ]
-       "institution" : "Amrita VishwaVidyapeetham",
-        "area" : "Electronics and Instrumentation Engineering",
-        "studyType" : "Bachelor's",
-        "startDate" : "July 2014",
-        "endDate" : "July 2018",
-        "gpa" : "8.91",
+      "institution" : "Amrita VishwaVidyapeetham",
+      "area" : "Electronics and Instrumentation Engineering",
+      "studyType" : "Bachelor's",
+      "startDate" : "July 2014",
+      "endDate" : "July 2018",
+      "gpa" : "8.91",
     }
   ],
   "work": [
