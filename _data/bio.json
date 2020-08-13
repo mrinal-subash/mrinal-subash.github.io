@@ -173,7 +173,7 @@
       "highlights": [
         "A deep learning where the system detects diseases with diabetic retinopathy and classifies them into 4 stages-mild, non-proliferative, proliferative and malignant using Keras, a high-level network API with backend as TensorFlow, written in Python.",
        ]
-      
+     },
   ],
                                                                                                                ",
 }
