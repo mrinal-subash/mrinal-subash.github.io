@@ -147,11 +147,11 @@
       "startDate": "Jan 2020",
       "endDate": "Feb 2020",
       "highlights": [
-        "Work carried out on group project called Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life."
+        "Work carried out on group project called Ancestral Genomes: a resource for reconstructed ancestral genes and genomes across the tree of life.",
         "Comparison and alignment in CLI and Geneious with BLAST, ClustalW, MUMmer, Mauve, SPatt.",
         "Phylogenetic Analysis in Geneious, determined model using jModelTest and MrBayes.",
         "Data Analysis in NGS, containing QC with FASTX-Toolkit, and assembly with velvet, bowtie, SoapDenovo2. ",
-        "Perform coding in Python, Perl, and a little R, to request or parse data, execute commands, and analyze data."
+        "Perform coding in Python, Perl, and a little R, to request or parse data, execute commands, and analyze data.",
       ]
     },
     {
@@ -161,8 +161,8 @@
       "endDate": "Dec 2018",
       "highlights": [
         "Undertook the Automation and Control Engineering course at the University where courses included Vehicle Dynamics, Automation in Energy Systems and Production Systems Control.",
-        "Attained a grade of 30/30 for all the courses."
-        "Got opportunity to talk to one of Ferrari’s Vehicle Dynamics team head, Marco Fainello."
+        "Attained a grade of 30/30 for all the courses.",
+        "Got opportunity to talk to one of Ferrari’s Vehicle Dynamics team head, Marco Fainello.",
         ]
     },
     {
